@@ -30,4 +30,8 @@ By choosing Your favourite IDE please solve conflicts
 
 ![Alt text](solving_conflicts.png?raw=true "Title")
 
+Click `Merge...`
+
+![Alt text](pycharm_merge_conflicts.png?raw=true "Title")
+
 8) push to new_feature
