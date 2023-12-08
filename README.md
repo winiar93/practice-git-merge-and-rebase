@@ -7,7 +7,7 @@ for understanding and mastering Git merging and rebasing.
 Before start please fork this repo.
 
 
-# Practive merge 
+# Practice merge 
 
 
 1) switch to branch main
