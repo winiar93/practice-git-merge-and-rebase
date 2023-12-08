@@ -12,6 +12,6 @@ Before start please fork this repo.
 
 1) switch to branch main
 2) add new passenger `Ted` between `Alice` and `Bob`
-   `plane1.book_seat("Ted")`
+   `plane1.book_seat("Ted")`. Please use github.com editor.
 3) commit changes and push commit 
 4) switch to `new_feature` branch
