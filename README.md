@@ -26,7 +26,7 @@ In this step similar message should appear
 ![Alt text](git_merge_conflict.png?raw=true "Title")
 7) solve conflicts 
 
-By choosing Your favourite IDE please solve conflicts
+By choosing Your favourite IDE, please solve conflicts.
 
 
 ![Alt text](solving_conflicts.png?raw=true "Title")
@@ -34,5 +34,9 @@ By choosing Your favourite IDE please solve conflicts
 Click `Merge...`
 
 ![Alt text](pycharm_merge_conflicts.png?raw=true "Title")
+
+In next step this window should appear.
+
+![Alt text](merge_revision.png?raw=true "Title")
 
 8) push to new_feature
