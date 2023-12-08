@@ -43,4 +43,9 @@ Accept `<< X lane1.book_seat("Ted")` on right side by clicking arrows to remove 
 
 On left side accept `Changes from new_feature` to change `ekiM` to `Mike`
 
-8) push to new_feature
+After solving conflicts click `Apply`  and mark as resolved
+
+8) Use "git commit" to conclude merge
+9) As last step perform `git push`.
+Additionally You can add `--force-with-lease` flag. It is a safer option that will not overwrite any work on the remote branch if more commits were added to the remote branch (by another team-member or coworker or what have you). It ensures you do not overwrite someone elses work by force pushing.
+ 
