@@ -39,7 +39,8 @@ In next step this window should appear.
 
 ![Alt text](merge_revision.png?raw=true "Title")
 
-Accept `<< X lane1.book_seat("Ted")` on right side by clicking arrows to remove Adam 
+Accept `<< X lane1.book_seat("Ted")` on right side by clicking arrows to remove Adam.
+
 On left side accept `Changes from new_feature` to change `ekiM` to `Mike`
 
 8) push to new_feature
