@@ -14,8 +14,8 @@ class Plane:
     def get_airline(self):
         return self.airline
 
-    def get_passengers_number(self):
-        return len(self.passengers)
+    def get_passenger_names(self):
+        return list(enumerate(self.passengers))
 
     def book_seat(self, passenger_name):
         if len(self.passengers) < self.capacity:
