@@ -15,6 +15,13 @@ Before start please fork this repo.
    `plane1.book_seat("Ted")`. 
     Please use github editor to make a changes.
 3) Commit changes 
+
+```In this way we will generate a conflict in futher steps.
+Conflict in git is situation  when two people have changed the same lines in a file, 
+or if one developer deleted a file while another developer was modifying it. 
+In these cases, Git cannot automatically determine what is correct.
+```
+
 4) In Your local terminal please switch to main branch 
    and pull changes
    `git switch main`
