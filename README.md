@@ -10,18 +10,19 @@ Before start please fork this repo.
 # Practice merge 
 
 
-1) switch to branch main
-2) add new passenger `Ted` between `Alice` and `Bob`
+1) Switch to branch main
+2) Add new passenger `Ted` between `Alice` and `Bob`
    `plane1.book_seat("Ted")`. 
     Please use github editor to make a changes.
-3) commit changes 
+3) Commit changes 
 4) In Your local terminal please switch to main branch 
    and pull changes
    `git switch main`
    `git pull`
-5) switch to new_feature branch `git switch new_feature`
-6) perform `git merge main`  
-In this step similar message should appear
+5) Switch to new_feature branch `git switch new_feature`
+6) Perform `git merge main`  
+
+In This step similar message should appear
 
 ![Alt text](git_merge_conflict.png?raw=true "Title")
 7) solve conflicts 
