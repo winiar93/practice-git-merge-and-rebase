@@ -11,8 +11,6 @@ print("Capacity:", plane1.get_capacity())
 plane1.book_seat("Alice")
 plane1.book_seat("Ted")
 plane1.book_seat("ROB")
-plane1.book_seat("Dave2")
-
 plane1.book_seat("Bob")
 plane1.book_seat("Charlie")
 plane1.book_seat("Dave")
