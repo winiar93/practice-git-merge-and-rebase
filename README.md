@@ -22,7 +22,7 @@ Before start please fork this repo.
 5) Switch to new_feature branch `git switch new_feature`
 6) Perform `git merge main`  
 
-In This step similar message should appear
+In This step similar message should appear:
 
 ![Alt text](git_merge_conflict.png?raw=true "Title")
 7) solve conflicts 
