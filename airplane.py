@@ -14,7 +14,7 @@ class Plane:
     def get_airline(self):
         return self.airline
 
-    def get_passengers_number(self):
+    def get_something(self):
         return len(self.passengers)
 
     def book_seat(self, passenger_name):
