@@ -32,22 +32,22 @@ In these cases, Git cannot automatically determine what is correct.
 
 In This step, a similar message should appear:
 
-![Alt text](git_merge_conflict.png?raw=true "Title")
+![Alt text](images/git_merge_conflict.png?raw=true "Title")
 
 7) solve conflicts 
 
 By choosing Your favourite IDE, please solve conflicts.
 
 
-![Alt text](solving_conflicts.png?raw=true "Title")
+![Alt text](images/solving_conflicts.png?raw=true "Title")
 
 Click `Merge...`
 
-![Alt text](pycharm_merge_conflicts.png?raw=true "Title")
+![Alt text](images/pycharm_merge_conflicts.png?raw=true "Title")
 
 In the next step, this window should appear.
 
-![Alt text](merge_revision.png?raw=true "Title")
+![Alt text](images/merge_revision.png?raw=true "Title")
 
 Accept `<< X lane1.book_seat("Ted")` on right side by clicking arrows to remove Adam.
 
