@@ -25,7 +25,9 @@ In these cases, Git cannot automatically determine what is correct.
 
 4) In Your local terminal please switch to main branch 
    and pull changes
+
    `git switch main`
+
    `git pull`
 5) Switch to new_feature branch `git switch new_feature`
 6) Perform `git merge main`  
@@ -36,7 +38,7 @@ In This step, a similar message should appear:
 
 7) solve conflicts 
 
-By choosing Your favourite IDE, please solve conflicts.
+By choosing Your favourite IDE, please resolve conflicts.
 
 
 ![Alt text](images/solving_conflicts.png?raw=true "Title")
@@ -57,7 +59,7 @@ After solving conflicts click `Apply`  and mark as resolved
 
 8) Use "git commit" to conclude merge
 9) As last step perform `git push`.
-Additionally You can add `--force-with-lease` flag. It is a safer option that will not overwrite any work on the remote branch if more commits were added to the remote branch (by another team-member or coworker or what have you). It ensures you do not overwrite someone elses work by force pushing.
+Additionally You can add `--force-with-lease` flag. It is a safer option that will not overwrite any work on the remote branch if more commits were added to the remote branch (by another team-member or coworker). It ensures you do not overwrite someone elses work by force pushing.
 
 
  # Practice rebase
