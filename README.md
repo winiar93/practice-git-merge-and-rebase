@@ -22,7 +22,7 @@ Before start please fork this repo.
 5) Switch to new_feature branch `git switch new_feature`
 6) Perform `git merge main`  
 
-In This step similar message should appear:
+In This step, a similar message should appear:
 
 ![Alt text](git_merge_conflict.png?raw=true "Title")
 
@@ -37,7 +37,7 @@ Click `Merge...`
 
 ![Alt text](pycharm_merge_conflicts.png?raw=true "Title")
 
-In next step this window should appear.
+In the next step, this window should appear.
 
 ![Alt text](merge_revision.png?raw=true "Title")
 
