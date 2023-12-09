@@ -9,7 +9,6 @@ print("Capacity:", plane1.get_capacity())
 
 # Booking seats
 plane1.book_seat("Alice")
-plane1.book_seat("Bob")
 plane1.book_seat("Charlie")
 plane1.book_seat("Dave")
 plane1.book_seat("ekiM")
