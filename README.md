@@ -91,4 +91,7 @@ Both merge and rebase are used in Git to integrate changes from one branch into 
 `No Merge Commits`: Unlike merge, rebase doesn't create a merge commit. Instead, it replants the commits from one branch onto another, resulting in a linear sequence of commits.
 
 `Cleaner History`: Rebase offers a cleaner history as it eliminates unnecessary merge commits, resulting in a straight and more linear commit history.
+
+
+![Alt text](images/merge_vs_rebase.png?raw=true "Title")
    
